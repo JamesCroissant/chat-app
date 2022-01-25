@@ -1,11 +1,11 @@
 .wrapper { 
   display: flex;
-  height:100vh;
 }
 
 .side-bar { 
   background-color:#253141;
   width:300px;
+  height:100vh;
 }
 
 .side-bar-header { 
